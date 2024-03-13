@@ -1,8 +1,8 @@
 <template>
 <div>
-  <main class="grid min-h-full place-items-center h-screen bg-black text-white px-6 py-24 sm:py-32 lg:px-8">
+  <main class="grid min-h-full place-items-center h-screen bg-black text-white px-2 py-24 sm:py-32 lg:px-8">
     <div class="text-center">
-      <img src="/logo.png" alt="logo" width="300px">
+      <img src="/logo.png" alt="logo" width="300px" class="mx-auto">
       <h1 class="mt-4 text-3xl font-bold tracking-tight sm:text-5xl">¡Gracias por su respuesta!</h1>
       <p class="mt-6 text-base leading-7 text-gray-600">Para conocer los avances y resultados, síguenos en nuestras redes sociales</p>
       <div class="mt-10 flex justify-center space-x-10">
